@@ -9,5 +9,5 @@
 </a>
 
 <a href="https://www.upwork.com/freelancers/~019b064b90080117c9">
- <img <img align="left" height="20px" src="Fiverr.svg">
+ <img <img align="centre" height="20px" src="Fiverr.svg">
 </a>
