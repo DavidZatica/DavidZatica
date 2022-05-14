@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://www.fiverr.com/david_zatica?up_rollout=true">
- <img align="left" height="20px" src="Fiverr.svg">
+ <img align="center" height="20px" src="Fiverr.svg">
 </a>
 
 hello world
