@@ -12,7 +12,9 @@
 
 <a href="https://www.fiverr.com/david_zatica?up_rollout=true">
  <img height="25px" src="Fiverr.svg">&nbsp;
-</a>/
+</a>
+
+ /
 
 <br />
 
