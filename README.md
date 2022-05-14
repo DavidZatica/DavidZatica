@@ -8,6 +8,6 @@
 
 <code>
   <a href="https://www.instagram.com/davidzatica/">
-   <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/fiverr.png">
+   <img src="https://www.upwork.com/favicon.ico">
   </a>
 </code>
