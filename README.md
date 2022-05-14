@@ -13,9 +13,7 @@
 </a>&nbsp;
 
             
-
 I am **David Zatica**  
-
 I am an amateur software developer and a professional graphic designer  
 
 **TBC**
