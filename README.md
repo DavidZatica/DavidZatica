@@ -1,3 +1,7 @@
+<h1 align="center">
+  ###I am David Zatica!
+</h1>
+
 ### Hi There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/davidzatica/">
@@ -11,10 +15,6 @@
 <a href="https://www.fiverr.com/david_zatica?up_rollout=true">
  <img align="center" height="25px" src="Fiverr.svg">&nbsp;
 </a>&nbsp;
-
-<h1 align="center">
-  I am David Zatica!
-</h1>
 
 I am an amateur software developer and a professional graphic designer  
 
