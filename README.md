@@ -9,11 +9,11 @@
 </a>
 
 <a href="https://www.fiverr.com/david_zatica?up_rollout=true">
- <img align="centre" height="25px" src="Fiverr.svg">&nbsp;
+ <img align="center" height="25px" src="Fiverr.svg">&nbsp;
 </a>&nbsp;
 
-<h1>
-  I am **David Zatica**  
+<h1 align="center">
+  I am David Zatica!
 </h1>
 
 I am an amateur software developer and a professional graphic designer  
