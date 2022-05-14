@@ -14,8 +14,6 @@
  <img height="25px" src="Fiverr.svg">&nbsp;
 </a>
 
- /
-
 <br />
 
 I am an amateur software developer and a professional graphic designer  
