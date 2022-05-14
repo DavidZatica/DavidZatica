@@ -1,4 +1,4 @@
-### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/davidzatica/">
   <img <img align="left" width="30px" height="30px" src="Instagram.svg">
@@ -9,9 +9,7 @@
 </a>
 
 <a href="https://www.fiverr.com/david_zatica?up_rollout=true">
- <img <img align="center" height="20px" src="Fiverr.svg">
+ <img align="center" height="20px" src="Fiverr.svg">
 </a>
 
-<h6 align="left">
-  hello world
-</h6>
+hello world
