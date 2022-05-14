@@ -12,4 +12,6 @@
  <img align="centre" height="25px" src="Fiverr.svg">
 </a>  
 
-hello world  
+I am **David Zatica**  
+I am an amateur software developer and a professional graphic designer
+**TBC**
