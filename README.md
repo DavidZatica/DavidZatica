@@ -12,6 +12,7 @@
  <img align="centre" height="25px" src="Fiverr.svg">
 </a>  
 
+<br>
 
 I am **David Zatica**  
 
