@@ -2,7 +2,7 @@
 
 <code>
   <a href="https://www.instagram.com/davidzatica/">
-    <img width="20px" height="20px" src="icons8-instagram-50.png">
+    <img width="20px" height="20px" src="icons8-instagram.svg">
   </a>
 </code>
 
