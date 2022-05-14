@@ -18,10 +18,4 @@
  <img align="left" width="30px" height="30px" src="Upwork.svg">
 </a>
 
-<a href="https://www.fiverr.com/david_zatica?up_rollout=true">
- <img align="left" height="20px" src="Fiverr.svg">
-</a>
-
-<br />
-
 hello world
