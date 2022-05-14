@@ -13,8 +13,9 @@
 <a href="https://www.fiverr.com/david_zatica?up_rollout=true">
  <img height="25px" src="Fiverr.svg">&nbsp;
 </a>
+
 &nbsp;
 
-I am an amateur software developer and a professional graphic designer  
+**I am an amateur software developer and a professional graphic designer**\
 
 **TBC**
