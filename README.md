@@ -1,5 +1,5 @@
 <h1 align="center">
-  I am David Zatica!
+  David Zatica
 </h1>
 
 <a href="https://www.instagram.com/davidzatica/">
