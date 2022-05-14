@@ -10,10 +10,6 @@
   <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<br />
-
-hello world
-
 <a href="https://www.instagram.com/davidzatica/">
   <img align="left" width="30px" height="30px" src="Instagram.svg">
 </a>
@@ -25,3 +21,7 @@ hello world
 <a href="https://www.fiverr.com/david_zatica?up_rollout=true">
  <img align="left" height="20px" src="Fiverr.svg">
 </a>
+
+<br />
+
+hello world
