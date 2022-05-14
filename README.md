@@ -2,7 +2,7 @@
 
 <code>
   <a href="https://www.instagram.com/davidzatica/">
-   <img width="20px" height="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png">
+   <img width="20px" height="20px" src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png">
   </a>
 </code>
 
