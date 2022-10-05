@@ -14,6 +14,25 @@
  <img height="25px" src="Icons/Fiverr.svg">&nbsp;
 </a> <br>
 
-### I am an amateur software developer and a professional graphic designer
+### I am a software developer and a professional graphic designer
 
-**TBC**
+Some of my skills: 
+- Graphic design
+  - This Includes:
+  - Logo Design
+  - Brand Design
+  - Stationary Design
+  - UI/UX Design
+- Software Development and Programming
+  - This Includes:
+  - App Development
+  - Web Development
+  - Software Development
+
+Contact:
+- Phone: +44 7417 44 2030
+- Email: davidzatica@icloud.com
+  
+If your interested in any freelancing opportunities, please contact me through my contact methods or reach out to me on fiverr
+  
+More of my portfolio work to come soon!
