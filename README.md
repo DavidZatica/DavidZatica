@@ -14,7 +14,7 @@
  <img height="25px" src="Icons/Fiverr.svg">&nbsp;
 </a> <br>
 
-### I am a software developer and a professional graphic designer
+### I am a professional software developer and graphic designer
 
 Some of my skills: 
 - Graphic design
@@ -28,11 +28,18 @@ Some of my skills:
   - App Development
   - Web Development
   - Software Development
+  - In Languages Such As:
+  - Python
+  - HTML/CSS/JS (Yes, I know HTML and CSS aren't technically programming languages)
+  - NodeJS
+  - TypeScript
+  - C++
 
 Contact:
 - Phone: +44 7417 44 2030
-- Email: davidzatica@icloud.com
+- Email: me@davidzatica.com
+- Website: davidzatica.com
   
-If your interested in any freelancing opportunities, please contact me through my contact methods or reach out to me on fiverr
+If your interested in any freelancing opportunities, please contact me through my contact methods to get in touch!
   
 More of my portfolio work to come soon!
